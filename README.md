@@ -8,5 +8,5 @@ Steps to upload the data.
 
 1. Find your raw counts, and make expression counts, these could be from featureCounts (Nextflow, rnaseq pipeline).
 2. Make sure all your raw reads and expression count files are in the same folder. 
-3. Copy the excel table in this repo (), which provides a basic template to upload your data.
+3. Copy the excel table in this repo (Multispecies...), which provides a basic template to upload your data.
 4. 

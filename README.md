@@ -60,3 +60,5 @@ WANRING: This may take >30mins or more, deopending on file sizes and number.
 20. Follow their instructions for filezila: https://www.ncbi.nlm.nih.gov/geo/info/submissionftp.html
 21. ONce you are connected to their server, you need to find your folder with data in it on the left (normally). Then select the files you want to transfer, and drag and drop them over to the server side in a folder with an appropriate name (e.g. Polybia_GEO_Submission). 
 WARNING: This step could take >24hours, esp. if the data are on the RDS, which is super slow moving files. If the copy breaks, you can always try again later, and move the files that didn't transfer correctly.
+
+22. Once the files have all been transferred (excel table, raw counts, and gene expression), go back to GEO, and select "notify GEO". Follow their instructions, including choosing a publish date. This is provisional, but you can put three years from now, and can always remove the data if your paper is not ready by then.
